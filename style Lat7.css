@@ -1,0 +1,14 @@
+.fak:link{
+color: blue;
+}
+.fak:hover{
+color: red;
+font-size: 1000%;
+}
+.fak:active{
+    font-style: italic;
+}
+
+.fak:visited{
+    color:aqua;
+}
